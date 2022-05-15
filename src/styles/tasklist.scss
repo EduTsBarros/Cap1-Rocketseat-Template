@@ -58,7 +58,9 @@ section.task-list {
           filter: brightness(0.95);
         }
       }
+   
     }
+
   }
 
   main {
@@ -157,5 +159,10 @@ section.task-list {
         }
       }
     } 
+    
+    .erros {
+      margin-top: 2%;
+      color:#db073c
+   }
   }
 }
